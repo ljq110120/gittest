@@ -9,5 +9,6 @@ public class test {
         System.out.println("修改master");
         System.out.println("add test branch");
         System.out.println("change test branch");
+        System.out.println("new branch leijiaqi");
     }
 }
