@@ -10,6 +10,6 @@ public class test {
         System.out.println("add test branch");
         System.out.println("change test branch");
         System.out.println("test merge master first");
-        "冲突";
+        System.out.println("fetch test");
     }
 }
